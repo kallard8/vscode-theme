@@ -1,5 +1,5 @@
 # vscode-theme
 
-# Dark Theme
+### Dark Theme
 
-# Not a fork of an existing theme
+### Not a fork of an existing theme
